@@ -9,8 +9,10 @@ AndroidStudio 优秀插件汇总
 
 _or_
 
-- [download it jar] and install via `Preferences → Plugins → Install plugin from disk`  
-## 第三部分 插件的汇总  
+- [download it jar] and install via `Preferences → Plugins → Install plugin from disk` 
+- 
+## 第三部分 插件的汇总   
+
 #### 一、优秀插件  
 1. Android ButterKnife Zelezny  
 功能介绍  
