@@ -49,7 +49,7 @@ GsonFormat是一个快速格式化json数据,自动生成实体类参数的插�
 插件教程地址：http://blog.csdn.net/kroclin/article/details/40902721  
 推荐指数：四星  
 
-1.Markdown  
+1. Markdown  
 Markdown是一种可以使用普通文本编辑器编写的标记语言，通过类似HTML的标记语法，它可以使普通文本内容具有一定的格式。  
 插件下载地址：https://plugins.jetbrains.com/plugin/5970?pr=  
 插件文档地址：https://github.com/nicoulaj/idea-markdown  
