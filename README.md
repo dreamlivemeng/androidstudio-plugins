@@ -5,11 +5,11 @@ AndroidStudio 优秀插件汇总
 ## 第一部分 插件的介绍
 
 ## 第二部分 插件的安装
-- in Android Studio: go to `Preferences → Plugins → Browse repositories` and search for `插件名` 
+- in Android Studio: go to `File → Settings → Plugins → Browse repositories` and search for `插件名` 
 
 _or_
 
-- [download it jar] and install via `Preferences → Plugins → Install plugin from disk` 
+- download it jar and install  `File → Settings → Plugins → Install plugin from disk` 
 - 
 ## 第三部分 插件的汇总   
 
