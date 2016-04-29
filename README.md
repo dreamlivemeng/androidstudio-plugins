@@ -9,10 +9,10 @@ AndroidStudio 优秀插件汇总
 
 _or_
 
-- [download it jar] and install via `Preferences → Plugins → Install plugin from disk` 
-## 第三部分 插件的汇总
-#### 一、优秀插件
-1. Android ButterKnife Zelezny
+- [download it jar] and install via `Preferences → Plugins → Install plugin from disk`  
+## 第三部分 插件的汇总  
+#### 一、优秀插件  
+1. Android ButterKnife Zelezny  
 功能介绍  
 插件地址：https://plugins.jetbrains.com/plugin/7369?pr=androidstudio  
 插件源码地址： https://github.com/avast/android-butterknife-zelezny  
