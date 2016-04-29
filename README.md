@@ -29,5 +29,13 @@ GsonFormat是一个快速格式化json数据,自动生成实体类参数的插�
 插件教程：http://blog.csdn.net/dreamlivemeng/article/details/51262538  
 使用指数：四星  
 
+1. Android Drawable Importer  
+功能介绍  
+插件下载地址：https://plugins.jetbrains.com/plugin/7658?pr=androidstudio  
+插件源码地址：https://github.com/winte...importer-intellij-plugin  
+插件教程地址：
+使用指数：三星
+
+
 
 
