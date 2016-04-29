@@ -62,11 +62,34 @@ Markdown是一种可以使用普通文本编辑器编写的标记语言，通过
 推荐指数：五星  
 
 1. AndroidAccessors  
-快速实现get和set方法的插件。
+快速实现get和set方法的插件。  
 插件下载地址：https://plugins.jetbrains.com/plugin/7496?pr=  
 插件文档地址：https://github.com/jonstaff/AndroidAccessors  
 推荐指数：三星  
 
+1. Lifecycle Sorter  
+可以根据Activity或者fragment的生命周期对其生命周期方法位置进行先后排序。  
+插件下载地址：https://plugins.jetbrains.com/plugin/7742?pr=  
+插件源码地址：https://github.com/armandAkop/Lifecycle-Sorter  
+推荐指数：五星  
+
+1. ADB WIFI
+无需root就能wifi调试。  
+插件下载地址：https://plugins.jetbrains.com/plugin/7856?pr=  
+插件源码地址：https://github.com/layerlre/ADBWIFI  
+推荐指数： 五星  
+
+1. ADB Idea  
+adb 调试工具,Uninstall App、Kill App、Start App、Restart App、Clear App Data、Clear App Data and Restart
+插件下载地址：https://plugins.jetbrains.com/plugin/7380?pr=  
+插件源码地址：https://github.com/pbreault/adb-idea/  
+推荐指数：五星  
+
+1. CodeGlance  
+最大的用途：可用于快速定位代码。  
+插件下载地址：https://plugins.jetbrains.com/plugin/7275?pr=  
+插件源码地址： https://github.com/Vektah/CodeGlance  
+推荐指数：五星  
 
 
 
