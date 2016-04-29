@@ -108,6 +108,35 @@ adb 调试工具,Uninstall App、Kill App、Start App、Restart App、Clear App 
 插件教程地址：http://www.itnose.net/detail/6204426.html  
 推荐指数：四星  
 
+1. JavaDoc   
+添加注释，可自定义模板。  
+插件下载地址：https://plugins.jetbrains.com/plugin/?idea_ce&pluginId=7157  
+插件源码地址：https://github.com/setial/intellij-javadocs  
+推荐指数： 五星  
+
+1. Android strings.xml tools  
+可以用来管理Android项目中的字符串资源。它提供了排序Android本地文件和添加缺少的字符串的基本操作。虽然这个插件是有限制的，但如果应用程序有大量的字符串资源，那这个插件就非常有用了。  
+插件下载地址：https://plugins.jetbrains.com/plugin/7498?pr=  
+插件源码地址：https://github.com/constantine-ivanov/strings-xml-tools  
+推荐指数：五星  
+
+1. Robotium Recorder  
+Robotium Recorder是一个自动化测试框架，用于测试在模拟器和Android设备上原生的和混合的移动应用程序。Robotium Recorder可以让你记录测试案例和用户操作。你也可以查看不同Android活动时的系统功能和用户测试场景。  
+插件下载地址：https://plugins.jetbrains.com/plugin/7513?pr=  
+插件官方网址：http://robotium.com/ 
+推荐指数：四星  
+
+1. Android Holo Colors Generator  
+通过自定义Holo主题颜色生成对应的Drawable和布局文件  
+插件下载地址：https://plugins.jetbrains.com/plugin/7366?pr=  
+插件源码地址：https://github.com/jeromevdl/android-holo-colors-idea-plugin  
+推荐指数：四星  
+
+Thanks
+------
+* Everyone who has contributed code and reported issues!
+
+
 
 
 
