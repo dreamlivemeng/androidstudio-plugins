@@ -16,7 +16,7 @@ _or_
 #### 一、优秀插件  
 1. Android ButterKnife Zelezny  
 功能介绍  
-插件地址：https://plugins.jetbrains.com/plugin/7369?pr=androidstudio  
+插件下载地址：https://plugins.jetbrains.com/plugin/7369?pr=androidstudio  
 插件源码地址： https://github.com/avast/android-butterknife-zelezny  
 插件教程：http://blog.csdn.net/dreamlivemeng/article/details/51261170  
 使用指数：五星  
