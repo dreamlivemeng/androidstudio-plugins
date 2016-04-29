@@ -9,8 +9,8 @@ AndroidStudio 优秀插件汇总
 
 _or_
 
-- download it jar and install  `File → Settings → Plugins → Install plugin from disk` 
-- 
+- in Android Studio: go to download it jar and install  `File → Settings → Plugins → Install plugin from disk` 
+
 ## 第三部分 插件的汇总   
 
 #### 一、优秀插件  
