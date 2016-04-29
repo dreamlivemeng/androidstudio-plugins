@@ -21,7 +21,7 @@ ButterKnife是一个专注于Android系统的View注入框架,可以减少大量
 插件教程：http://blog.csdn.net/dreamlivemeng/article/details/51261170  
 使用指数：五星  
 
-1.GsonFormat  
+1. GsonFormat  
 GsonFormat是一个快速格式化json数据,自动生成实体类参数的插件。  
 插件下载地址：https://plugins.jetbrains.com/plugin/7654?pr=androidstudio    
 插件源码地址：https://github.com/zzz40500/GsonFormat    
