@@ -2,7 +2,8 @@ AndroidStudio 优秀插件汇总
 ====================
 
 欢迎大家推荐好的 Android 开源项目，可直接[Commit](https://github.com/dreamlivemeng/androidstudio-plugins/wiki "请遵守<内容添加及编辑规范>")，欢迎`Star`、`Fork` :)  
-## 第一部分 插件的介绍
+## 第一部分 插件的介绍  
+Google 在2013年5月的I/O开发者大会推出了基于IntelliJ IDEA Java IDE上的Android Studio。AndroidStudio是一个功能齐全的开发工具，还提供了第三方插件的支持。让开发人员更快速更好的开发程序。  
 
 ## 第二部分 插件的安装
 - in Android Studio: go to `File → Settings → Plugins → Browse repositories` and search for `插件名` 
