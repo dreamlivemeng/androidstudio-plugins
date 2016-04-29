@@ -91,6 +91,24 @@ adb 调试工具,Uninstall App、Kill App、Start App、Restart App、Clear App 
 插件源码地址： https://github.com/Vektah/CodeGlance  
 推荐指数：五星  
 
+1. JSONOnlineViewer  
+可实现直接在android studio中调试接口数据，可以选择请求类型，自定义请求头及请求体，json数据格式化后展示  
+插件下载地址：https://plugins.jetbrains.com/plugin/7838?pr=  
+推荐指数：四星  
+
+1. FindBugs-IDEA  
+通过FindBugs帮你找到隐藏的bug及不好的做法。
+插件下载地址：https://plugins.jetbrains.com/plugin/3847?pr=  
+插件源码地址：https://github.com/andre...indbugs-idea/tree/master
+推荐指数：四星  
+
+1. jimu Mirror  
+这是一个可以让你在真实的设备上迅速测试布局的插件。jimu Mirror允许在设备上预览随同编码更新的Android布局。
+插件下载地址：https://plugins.jetbrains.com/plugin/7517?pr=    
+插件教程地址：http://www.itnose.net/detail/6204426.html  
+推荐指数：四星  
+
+
 
 
 
