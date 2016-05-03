@@ -132,6 +132,17 @@ Robotium Recorder是一个自动化测试框架，用于测试在模拟器和And
 插件源码地址：https://github.com/jeromevdl/android-holo-colors-idea-plugin  
 推荐指数：四星  
 
+1. lint-cleaner-plugin  
+删除未使用的资源,包括String字符串,颜色和尺寸。  这是一个Gradle插件，所以如何配置可以去github的源码上看。  
+插件源码地址：https://github.com/marcoRS/lint-cleaner-plugin  
+推荐指数：四星  
+
+
+
+
+
+
+
 Thanks
 ------
 * Everyone who has contributed code and reported issues!
