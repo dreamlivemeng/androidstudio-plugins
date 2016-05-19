@@ -137,6 +137,11 @@ Robotium Recorder是一个自动化测试框架，用于测试在模拟器和And
 插件源码地址：https://github.com/marcoRS/lint-cleaner-plugin  
 推荐指数：四星  
 
+1. codota  
+该网站搜集了大量的代码，号称超过700W的代码实例。提供了chrome和as插件。  
+插件下载地址：https://plugins.jetbrains.com/plugin/7638?pr=  
+插件官方网址：https://www.codota.com/  
+推荐指数：五星  
 
 
 
