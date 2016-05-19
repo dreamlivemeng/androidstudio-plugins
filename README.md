@@ -32,7 +32,7 @@ GsonFormat是一个快速格式化json数据,自动生成实体类参数的插�
 1. Android Drawable Importer  
 为了适应所有Android屏幕的大小和密度，每个Android项目都会包含drawable文件夹。任何具备Android开发经验的开发人员都知道，为了支持所有的屏幕尺寸，你必须给每个屏幕类型导入不同的画板。Android Drawable Importer插件能让这项工作变得更容易。它可以减少导入缩放图像到Android项目所需的工作量。Android Drawable Importer添加了一个在不同分辨率导入画板或缩放指定图像到定义分辨率的选项。这个插件加速了开发人员的画板工作。  
 插件下载地址：https://plugins.jetbrains.com/plugin/7658?pr=androidstudio  
-插件源码地址：https://github.com/winte...importer-intellij-plugin  
+插件源码地址：https://github.com/winterDroid/android-drawable-importer-intellij-plugin  
 插件教程地址：http://blog.csdn.net/lee_sire/article/details/49684385    
 推荐指数：三星  
 
