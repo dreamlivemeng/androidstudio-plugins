@@ -123,7 +123,7 @@ adb 调试工具,Uninstall App、Kill App、Start App、Restart App、Clear App 
 1. Robotium Recorder  
 Robotium Recorder是一个自动化测试框架，用于测试在模拟器和Android设备上原生的和混合的移动应用程序。Robotium Recorder可以让你记录测试案例和用户操作。你也可以查看不同Android活动时的系统功能和用户测试场景。  
 插件下载地址：https://plugins.jetbrains.com/plugin/7513?pr=  
-插件官方网址：http://robotium.com/ 
+插件官方网址：http://robotium.com/  
 推荐指数：四星  
 
 1. Android Holo Colors Generator  
