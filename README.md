@@ -143,6 +143,12 @@ Robotium Recorder是一个自动化测试框架，用于测试在模拟器和And
 插件官方网址：https://www.codota.com/  
 推荐指数：五星  
 
+1. ECTranslation   
+一个androidstudio上面的翻译插件（将英文翻译为中文）。   暂时只能以jar的方式安装。jar下载地址以及使用方法在github上的源码地址上都有详细描述。  
+插件源码地址：https://github.com/Skykai521/ECTranslation  
+推荐指数：四星  
+
+
 
 
 
