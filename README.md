@@ -153,6 +153,12 @@ Thanks
 * Everyone who has contributed code and reported issues!
 
 
+关于作者
+------
+* QQ群：490832714  
+* Email：dreamlivemeng@gmail.com  
+
+
 
 
 
