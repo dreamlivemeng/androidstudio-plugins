@@ -148,9 +148,17 @@ Robotium Recorder是一个自动化测试框架，用于测试在模拟器和And
 插件源码地址：https://github.com/Skykai521/ECTranslation  
 推荐指数：四星  
 
+1. Android File Grouping Plugin   
+该插件可自动将前缀相同的文件归类显示到同一文件目录下，但不会因此而移动文件或创建文件夹。  
+插件下载地址：https://github.com/dmytrodanylyk/folding-plugin/releases  
+插件源码地址：https://github.com/dmytrodanylyk/folding-plugin    
+推荐指数： 四星  
 
-
-
+1. PermissionsDispatcher  
+一个针对API 23，可在`Activity/Fragment`中快速生成`Runtime Permissions`代码的插件。  
+插件下载地址：https://plugins.jetbrains.com/plugin/8349  
+插件源码地址：https://github.com/shiraji/permissions-dispatcher-plugin    
+推荐指数： 四星  
 
 
 
