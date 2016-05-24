@@ -160,6 +160,12 @@ Robotium Recorder是一个自动化测试框架，用于测试在模拟器和And
 插件源码地址：https://github.com/shiraji/permissions-dispatcher-plugin    
 推荐指数： 四星  
 
+1. Android code Generator  
+Android Studio/IntelliJ IDEA的安卓代码生成插件，帮助提高app的开发速度。可以从layout生成Activity类、Fragment类、Adapter类，从menu.xml生成menu代码等。  
+插件下载地址：https://plugins.jetbrains.com/plugin/7595?pr=   
+插件源码地址：https://github.com/tmorcinek/android-codegenerator-plugin-intellij  
+插件教程：（中文版）http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0523/4294.html、（英文版）http://tmorcinek.github.io/android-codegenerator-plugin-intellij/  
+推荐指数：五星  
 
 
 Thanks
