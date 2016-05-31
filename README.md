@@ -185,6 +185,12 @@ CheckStyle-IDEA 是一个检查代码风格的插件，比如像命名约定，J
 插件下载地址：https://plugins.jetbrains.com/plugin/8076?pr=androidstudio  
 推荐指数：四星  
 
+1. Sexy Editor  
+设置代码性感背景图，还是比较强悍的。  
+插件下载地址：https://plugins.jetbrains.com/plugin/1833?pr=androidstudio  
+插件源码地址：https://github.com/igorspasic/idea-sexyeditor    
+推荐指数：五星  
+
 
 
 Thanks
