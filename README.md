@@ -167,6 +167,24 @@ Android Studio/IntelliJ IDEA的安卓代码生成插件，帮助提高app的开�
 插件教程：（中文版）http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0523/4294.html、（英文版）http://tmorcinek.github.io/android-codegenerator-plugin-intellij/  
 推荐指数：五星  
 
+1.  .ignore  
+项目中，每次add，commit的时候有可能会把Module生成的一些build文件/本地配置文件/iml文件提交上去。可以通过gitignore解决，如果你不想提交的文件，就可以在创建项目的时候将这个文件中添加即可，将一些通用的东西屏蔽掉。  
+插件下载地址：https://plugins.jetbrains.com/plugin/7495?pr=androidstudio  
+插件源码地址：https://github.com/hsz/idea-gitignore  
+推荐指数：四星  
+
+1. checkstyle-idea  
+CheckStyle-IDEA 是一个检查代码风格的插件，比如像命名约定，Javadoc，类设计等方面进行代码规范和风格的检查，你们可以遵从像Google Oracle 的Java 代码指南 ，当然也可以按照自己的规则来设置配置文件，从而有效约束你自己更好地遵循代码编写规范。  
+插件下载地址：https://plugins.jetbrains.com/plugin/1065?pr=androidstudio  
+插件源码地址：https://github.com/jshiell/checkstyle-idea  
+推荐指数：四星  
+
+1. Android Methods Count  
+统计Android依赖库中方法的总个数。 (一个dex只能接受的65K并不是指方法数超过65K而报的错,而是指引用计数超过65K)
+插件下载地址：https://plugins.jetbrains.com/plugin/8076?pr=androidstudio  
+推荐指数：四星  
+
+
 
 Thanks
 ------
