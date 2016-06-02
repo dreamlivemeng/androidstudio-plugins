@@ -181,7 +181,7 @@ CheckStyle-IDEA 是一个检查代码风格的插件，比如像命名约定，J
 推荐指数：四星  
 
 1. Android Methods Count  
-统计Android依赖库中方法的总个数。 (一个dex只能接受的65K并不是指方法数超过65K而报的错,而是指引用计数超过65K)
+统计Android依赖库中方法的总个数。 (一个dex只能接受的65K并不是指方法数超过65K而报的错,而是指引用计数超过65K)  
 插件下载地址：https://plugins.jetbrains.com/plugin/8076?pr=androidstudio  
 推荐指数：四星  
 
