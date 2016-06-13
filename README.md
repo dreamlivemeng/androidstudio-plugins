@@ -191,6 +191,11 @@ CheckStyle-IDEA 是一个检查代码风格的插件，比如像命名约定，J
 插件源码地址：https://github.com/igorspasic/idea-sexyeditor    
 推荐指数：五星  
 
+1. AndroidProguardPlugin  
+Android一键生成项目混淆代码插件，现在jetbrains还在审核只能下载进行安装了，不能通过as插件直接搜索安装。因为混淆时很多同学比较头疼的一个事情，所以给5星。  
+插件下载地址：https://raw.githubusercontent.com/zhonghanwen/AndroidProguardPlugin/master/AndroidProguard.zip  
+插件源码地址：https://github.com/zhonghanwen/AndroidProguardPlugin  
+推荐指数：五星  
 
 
 Thanks
