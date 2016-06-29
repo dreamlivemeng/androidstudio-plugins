@@ -197,7 +197,7 @@ Android一键生成项目混淆代码插件，现在jetbrains还在审核只能�
 插件源码地址：https://github.com/zhonghanwen/AndroidProguardPlugin  
 推荐指数：五星  
 
-1.Android Studio Prettify  
+1. Android Studio Prettify  
 从布局文件一键生成对view的声明。（不适用注解，形式为findviewById的方式）  
 插件下载地址：https://plugins.jetbrains.com/plugin/7405  
 插件源码地址：https://github.com/Haehnchen/idea-android-studio-plugin  
