@@ -301,6 +301,12 @@ Gradle 卡死可以用这个插件。
 插件源码地址：https://github.com/KanbanApps/GradleKillerIdeaPlugin  
 推荐指数：五星  
 
+1. android-toolbox-plugin  
+能根据xml文件生成对应的ViewHolder类，可以是findviewbyId形式或者是ButterKnife刀形式，如果你使用ButterKnife。  
+插件下载地址：https://plugins.jetbrains.com/plugin/7200  
+插件源码地址：https://github.com/idamobile/android-toolbox-plugin  
+推荐指数：三星  
+
 
 Thanks
 ------
