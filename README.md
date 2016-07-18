@@ -204,6 +204,12 @@ Android一键生成项目混淆代码插件，现在jetbrains还在审核只能�
 推荐指数：四星  
 
 
+1. GradleDependenciesHelperPlugin  
+Maven gradle依赖自动补全  
+插件下载地址：https://plugins.jetbrains.com/plugin/7299  
+插件源码地址：https://github.com/siosio/GradleDependenciesHelperPlugin  
+推荐指数：五星  
+
 Thanks
 ------
 * Everyone who has contributed code and reported issues!
