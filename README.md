@@ -56,6 +56,12 @@ Markdown 是一种可以使用普通文本编辑器编写的标记语言，通�
 插件文档地址：https://github.com/JetBrains/intellij-plugins/tree/master/markdown  
 推荐指数：四星  
 
+1. Markdown Navigator
+一款Markdown插件，是https://github.com/nicoulaj/idea-markdown他的一个分支，但是主项目由于维护的原因已经从jetbrains中删除了，如果想了解主项目的也可以通过上面的github地址进行了解。  
+插件下载地址：https://plugins.jetbrains.com/plugin/7896?pr=  
+插件源码地址：https://github.com/vsch/idea-multimarkdown  
+推荐指数：四星  
+
 1. Android Postfix completion  
 可根据后缀快速完成代码。  
 插件下载地址：https://plugins.jetbrains.com/plugin/7775?pr=  
@@ -84,6 +90,11 @@ Markdown 是一种可以使用普通文本编辑器编写的标记语言，通�
 adb 调试工具,Uninstall App、Kill App、Start App、Restart App、Clear App Data、Clear App Data and Restart
 插件下载地址：https://plugins.jetbrains.com/plugin/7380?pr=  
 插件源码地址：https://github.com/pbreault/adb-idea/  
+推荐指数：五星  
+
+1. AndroidWiFiADB  
+无线调试应用  
+插件源码地址：https://github.com/pedrovgs/AndroidWiFiADB  
 推荐指数：五星  
 
 1. CodeGlance  
@@ -145,9 +156,15 @@ Robotium Recorder是一个自动化测试框架，用于测试在模拟器和And
 推荐指数：五星  
 
 1. ECTranslation   
-一个androidstudio上面的翻译插件（将英文翻译为中文）。   暂时只能以jar的方式安装。jar下载地址以及使用方法在github上的源码地址上都有详细描述。  
+一个androidstudio上面的翻译插件（将英文翻译为中文）。   
+插件下载地址：https://plugins.jetbrains.com/plugin/8469  
 插件源码地址：https://github.com/Skykai521/ECTranslation  
 推荐指数：四星  
+
+1. TranslationPlugin  
+Android Studio/IntelliJ IDEA 翻译插件,可中英互译。暂时以jar方式安装。  
+插件源码地址：https://github.com/YiiGuxing/TranslationPlugin  
+推荐指数：三星  
 
 1. Android File Grouping Plugin   
 该插件可自动将前缀相同的文件归类显示到同一文件目录下，但不会因此而移动文件或创建文件夹。  
@@ -198,22 +215,80 @@ Android一键生成项目混淆代码插件，现在jetbrains还在审核只能�
 推荐指数：五星  
 
 1. Android Studio Prettify  
-从布局文件一键生成对view的声明。（不适用注解，形式为findviewById的方式）  
+从布局文件一键生成对view的声明（不适用注解，形式为findviewById的方式）,还可以将代码中的字符串写在String.xml文件中。    
 插件下载地址：https://plugins.jetbrains.com/plugin/7405  
 插件源码地址：https://github.com/Haehnchen/idea-android-studio-plugin  
 推荐指数：四星  
 
 
-1. GradleDependenciesHelperPlugin  
+1. Gradle Dependencies Helper  
 Maven gradle依赖自动补全  
 插件下载地址：https://plugins.jetbrains.com/plugin/7299  
 插件源码地址：https://github.com/siosio/GradleDependenciesHelperPlugin  
 推荐指数：五星  
 
+1. Remove ButterKnife  
+ButterKnife这个第三方库每次更新之后，绑定view的注解都会改变，从bind,到inject，再到bindview，一旦升级，就会有巨量的代码需要手动修改,所以这个插件可以快速移除，将注解代码变成findviewbyId的形式。  
+插件下载地址：https://plugins.jetbrains.com/plugin/8432  
+插件源码地址：https://github.com/u3shadow/RemoveButterKnife  
+插件教程地址：https://github.com/u3shadow/RemoveButterKnife/blob/master/README.md  
+推荐指数：三星  
+
+1. Android DPI Calculator  
+Dpi计算插件  
+插件下载地址：https://plugins.jetbrains.com/plugin/7832  
+插件源码地址：https://github.com/JerzyPuchalski/Android-DPI-Calculator  
+推荐指数：五星  
+
+1. SingletonTest   
+快速生成单例模式的插件。单例模式的六种生成方式LazyUnSafe,LazySafe,Hungry,DoubleCheck,StaticInner,Enum(http://cantellow.iteye.com/blog/838473);插件需要从github中下载jar安装。  
+插件源码地址：https://github.com/luhaoaimama1/SingletonTest  
+推荐指数：四星  
+
+1. Android Localizationer  
+将项目中的 string 资源自动翻译为其他语言的 Android Studio/IntelliJ IDEA 插件。
+插件下载地址：https://plugins.jetbrains.com/plugin/7629  
+插件源码地址：https://github.com/westlinkin/AndroidLocalizationer  
+推荐指数：四星  
+
+1. Material Theme UI  
+添加Material主题到你的AS  
+插件下载地址：https://plugins.jetbrains.com/plugin/8006?pr=  
+插件源码地址：https://github.com/ChrisRM/material-theme-jetbrains  
+推荐指数：五星  
+
+1. gradle-retrolambda  
+在java6,java7中也能使用Lambda表达式。这个使用方式跟其他插件不同，使用方式请看github的说明。  
+插件源码地址：https://github.com/evant/gradle-retrolambda  
+推荐指数：五星  
+
+1. eventbus-intellij-plugin  
+eventbus导航插件，方便快速查找，但是有2个pr没处理，已经有1年没维护更新了，如果有大神可以整一个就更好了，这个可以先用着。
+插件源码地址：https://github.com/kgmyshin/eventbus-intellij-plugin  
+推荐指数：三星  
+
+1. otto-intellij-plugin  
+otto导航插件，也是很久没维护了，不过可以用。  
+插件源码地址：https://github.com/square/otto-intellij-plugin  
+推荐指数：三星  
+
+1. dagger-intellij-plugin  
+dagger可视化辅助工具  
+插件源码地址：https://github.com/square/dagger-intellij-plugin  
+推荐指数：四星  
+
+1. Android Styler  
+根据xml文件生成style文件的插件  
+插件下载地址：https://plugins.jetbrains.com/plugin/7972  
+插件源码地址：https://github.com/alexzaitsev/android-styler  
+推荐指数：四星  
+
+
+
 Thanks
 ------
 * Everyone who has contributed code and reported issues!
-
+* 如果大家有好的开源插件分享可以直接提交pr,有问题可以直接提交issues或者邮件私信我。如果推荐指数不准确可以直接进行修改。推荐指数来源于三个指标（jetbrains,stars,实用性）。再次感谢开源作者们！
 
 关于作者
 ------
