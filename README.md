@@ -41,7 +41,7 @@ GsonFormat是一个快速格式化json数据,自动生成实体类参数的插�
 根据资源自动生成相应的selector。  
 插件下载地址：https://plugins.jetbrains.com/plugin/7298  
 插件源码地址：https://github.com/inmite/android-selector-chapek   
-推荐指数：三星  
+推荐指数：四星  
 
 1. Android Parcelable code generator  
 快速实现Parcelable接口的插件。  
@@ -283,6 +283,23 @@ dagger可视化辅助工具
 插件源码地址：https://github.com/alexzaitsev/android-styler  
 推荐指数：四星  
 
+1. ideavim  
+能让开发使用vi，大大提高开发效率。  
+插件下载地址：https://plugins.jetbrains.com/plugin/164?pr=  
+插件源码地址：https://github.com/JetBrains/ideavim  
+推荐指数：五星  
+
+1. Android Material Design Icon Generator  
+可以在Android项目中设置 material design样式图标(material design icons)  
+插件下载地址：https://plugins.jetbrains.com/plugin/7647?pr=  
+插件源码地址：https://github.com/konifar/android-material-design-icon-generator-plugin  
+推荐指数： 五星  
+
+1. Gradle Killer  
+Gradle 卡死可以用这个插件。  
+插件下载地址：https://plugins.jetbrains.com/plugin/7794?pr=  
+插件源码地址：https://github.com/KanbanApps/GradleKillerIdeaPlugin  
+推荐指数：五星  
 
 
 Thanks
