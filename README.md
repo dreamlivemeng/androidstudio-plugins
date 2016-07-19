@@ -92,8 +92,9 @@ adb 调试工具,Uninstall App、Kill App、Start App、Restart App、Clear App 
 插件源码地址：https://github.com/pbreault/adb-idea/  
 推荐指数：五星  
 
-1. AndroidWiFiADB  
+1. Android WiFiADB  
 无线调试应用  
+插件下载地址：https://plugins.jetbrains.com/plugin/7983  
 插件源码地址：https://github.com/pedrovgs/AndroidWiFiADB  
 推荐指数：五星  
 
