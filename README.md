@@ -113,6 +113,7 @@ adb 调试工具,Uninstall App、Kill App、Start App、Restart App、Clear App 
 通过FindBugs帮你找到隐藏的bug及不好的做法。  
 插件下载地址：https://plugins.jetbrains.com/plugin/3847?pr=  
 插件源码地址：https://github.com/andrepdo/findbugs-idea/tree/master  
+插件教程地址：http://blog.csdn.net/fancy_xty/article/details/51718687  
 推荐指数：四星  
 
 1. jimu Mirror  
