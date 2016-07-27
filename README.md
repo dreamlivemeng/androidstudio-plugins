@@ -309,6 +309,11 @@ Gradle 卡死可以用这个插件。
 插件源码地址：https://github.com/idamobile/android-toolbox-plugin  
 推荐指数：三星  
 
+1. java2smali  
+能快速将当前java文件编译成smali文件，方便学习smali语法的童鞋来对比源码学习。  
+插件下载地址：https://plugins.jetbrains.com/plugin/7385  
+插件源码地址：https://github.com/ollide/intellij-java2smali  
+推荐指数：三星  
 
 Thanks
 ------
