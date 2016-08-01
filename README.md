@@ -265,7 +265,7 @@ Dpi计算插件
 推荐指数：五星  
 
 1. eventbus-intellij-plugin  
-eventbus导航插件，方便快速查找，但是有2个pr没处理，已经有1年没维护更新了，如果有大神可以整一个就更好了，这个可以先用着。
+eventbus导航插件，方便快速查找，但是有2个pr没处理，已经有1年没维护更新了。  
 插件源码地址：https://github.com/kgmyshin/eventbus-intellij-plugin  
 推荐指数：三星  
 
@@ -314,6 +314,21 @@ Gradle 卡死可以用这个插件。
 插件下载地址：https://plugins.jetbrains.com/plugin/7385  
 插件源码地址：https://github.com/ollide/intellij-java2smali  
 推荐指数：三星  
+
+1. PermissionsDispatcher plugin  
+自动生成android6.0权限代码  
+插件下载地址：https://plugins.jetbrains.com/plugin/8349  
+插件源码地址：https://github.com/shiraji/permissions-dispatcher-plugin  
+推荐指数：五星  
+
+1. WakaTime  
+记录你在IDE上工作的时间  
+插件下载地址：https://plugins.jetbrains.com/plugin/7425  
+插件源码地址：https://github.com/wakatime/jetbrains-wakatime  
+推荐指数：五星  
+
+
+
 
 Thanks
 ------
