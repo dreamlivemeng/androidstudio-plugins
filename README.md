@@ -327,6 +327,12 @@ Gradle 卡死可以用这个插件。
 插件源码地址：https://github.com/wakatime/jetbrains-wakatime  
 推荐指数：五星  
 
+1. Exynap  
+ Exynap是一个帮助你快速查找和完成代码插入的AndroidStudio插件。你只需输入一个命令按回车就能调出一段代码，而这个命令也不需要你去记，只需输入大致意思就可以了，Exynap提供了上千种智能代码解决方案。  
+插件下载地址：https://plugins.jetbrains.com/plugin/8600?pr=idea  
+插件主页地址：http://exynap.com/  
+插件教程地址：http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0908/6606.html  
+推荐指数：五星  
 
 
 
