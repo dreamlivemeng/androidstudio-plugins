@@ -334,7 +334,11 @@ Gradle 卡死可以用这个插件。
 插件教程地址：http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0908/6606.html  
 推荐指数：五星  
 
-
+1. MVPHelper  
+ 一款Intellj IDEA 和Android Studio 自动生成MVP模式所需接口以及实现类的插件。  
+插件下载地址：https://plugins.jetbrains.com/plugin/8507?pr=idea  
+插件源码地址：https://github.com/githubwing/MVPHelper  
+推荐指数：四星  
 
 Thanks
 ------
