@@ -18,13 +18,13 @@ _or_
 1. Android ButterKnife Zelezny  
 ButterKnife is a focus on the Android system View into the framework, and can reduce a lot of the findViewById setOnClickListener code, visualization of a key generation.  
 ####PS:Please open the link to see the effect.  
-plugin download url：https://plugins.jetbrains.com/plugin/7369?pr=androidstudio  
-plugin source url： https://github.com/avast/android-butterknife-zelezny  
-plugin tutorials：http://blog.csdn.net/dreamlivemeng/article/details/51261170  
+plugin download url：https://plugins.jetbrains.com/plugin/7369?pr=androidstudio  
+plugin source url： https://github.com/avast/android-butterknife-zelezny  
+plugin tutorials：http://blog.csdn.net/dreamlivemeng/article/details/51261170  
 recommend：five-star 
 
 1. GsonFormat  
-GsonFormat是一个快速格式化json数据,自动生成实体类参数的插件。  
+GsonFormat is a quick format json data, automatically generated entity class parameter of the plugin.  
 plugin download url：https://plugins.jetbrains.com/plugin/7654?pr=androidstudio    
 plugin source url：https://github.com/zzz40500/GsonFormat    
 plugin tutorials：http://blog.csdn.net/dreamlivemeng/article/details/51262538  
@@ -38,157 +38,157 @@ plugin tutorials：http://blog.csdn.net/lee_sire/article/details/49684385
 recommend：three-star  
 
 1. android-selector-chapek / SelectorChapek for Android  
-根据资源自动生成相应的selector。  
+According to the resource file to automatically generate the corresponding selector.  
 plugin download url：https://plugins.jetbrains.com/plugin/7298  
 plugin source url：https://github.com/inmite/android-selector-chapek   
 recommend：four-star  
 
 1. Android Parcelable code generator  
-快速实现Parcelable接口的插件。  
+Quickly implement Parcelable interface plugin.  
 plugin download url：https://plugins.jetbrains.com/plugin/7332?pr=  
 plugin source url：https://github.com/mcharmas/android-parcelable-intellij-plugin/  
 plugin tutorials：http://blog.csdn.net/kroclin/article/details/40902721  
 recommend：four-star  
 
 1. Markdown support
-Markdown 是一种可以使用普通文本编辑器编写的标记语言，通过类似HTML的标记语法，它可以使普通文本内容具有一定的格式。  
+Markdown is also can use a simple text editor to write the markup language, a similar HTML tag syntax, it can make plain text content has a certain format.  
 plugin download url：https://plugins.jetbrains.com/plugin/7793  
-插件文档地址：https://github.com/JetBrains/intellij-plugins/tree/master/markdown  
+plugin document url：https://github.com/JetBrains/intellij-plugins/tree/master/markdown  
 recommend：four-star  
 
 1. Markdown Navigator
-一款Markdown插件，是https://github.com/nicoulaj/idea-markdown他的一个分支，但是主项目由于维护的原因已经从jetbrains中删除了，如果想了解主项目的也可以通过上面的github地址进行了解。  
+A Markdown plug-in, is a branch of https://github.com/nicoulaj/idea-markdown he, but the main project because of maintenance has been deleted from the jetbrains, if you want to understand the purpose of additional qualifications can be understand by making the address above.  
 plugin download url：https://plugins.jetbrains.com/plugin/7896?pr=  
 plugin source url：https://github.com/vsch/idea-multimarkdown  
 recommend：four-star  
 
 1. Android Postfix completion  
-可根据后缀快速完成代码。  
+According to the suffix fast code completion.  
 plugin download url：https://plugins.jetbrains.com/plugin/7775?pr=  
 plugin tutorials：http://blog.jetbrains.com/idea/2014/03/postfix-completion/  
 recommend：five-star  
 
 1. AndroidAccessors  
-快速实现get和set方法的插件。  
+The plugins rapidly get() and set() methods.  
 plugin download url：https://plugins.jetbrains.com/plugin/7496?pr=  
 插件文档地址：https://github.com/jonstaff/AndroidAccessors  
 recommend：three-star  
 
 1. Lifecycle Sorter  
-可以根据Activity或者fragment的生命周期对其生命周期方法位置进行先后排序。  
+According to the Activity or fragments of life cycle of the life cycle method position order was successively.  
 plugin download url：https://plugins.jetbrains.com/plugin/7742?pr=  
 plugin source url：https://github.com/armandAkop/Lifecycle-Sorter  
 recommend：five-star  
 
 1. ADB WIFI
-无需root就能wifi调试。  
+Could be wifi debugging without root.  
 plugin download url：https://plugins.jetbrains.com/plugin/7856?pr=  
 plugin source url：https://github.com/layerlre/ADBWIFI  
 recommend： five-star  
 
 1. ADB Idea  
-adb 调试工具,Uninstall App、Kill App、Start App、Restart App、Clear App Data、Clear App Data and Restart
+adb debug tool,Uninstall App、Kill App、Start App、Restart App、Clear App Data、Clear App Data and Restart
 plugin download url：https://plugins.jetbrains.com/plugin/7380?pr=  
 plugin source url：https://github.com/pbreault/adb-idea/  
 recommend：five-star  
 
 1. Android WiFiADB  
-无线调试应用  
+The wireless application debugging.  
 plugin download url：https://plugins.jetbrains.com/plugin/7983  
 plugin source url：https://github.com/pedrovgs/AndroidWiFiADB  
 recommend：five-star  
 
 1. CodeGlance  
-最大的用途：可用于快速定位代码。  
+Can be used to quickly locate the code.  
 plugin download url：https://plugins.jetbrains.com/plugin/7275?pr=  
 plugin source url： https://github.com/Vektah/CodeGlance  
 recommend：five-star  
 
 1. JSONOnlineViewer  
-可实现直接在android studio中调试接口数据，可以选择请求类型，自定义请求头及请求体，json数据格式化后展示  
+Can be directly in the android debug interface data in the studio, can choose the type of request, the custom request header and the request body, after the json data format.  
 plugin download url：https://plugins.jetbrains.com/plugin/7838?pr=  
 recommend：four-star  
 
 1. FindBugs-IDEA  
-通过FindBugs帮你找到隐藏的bug及不好的做法。  
+By FindBugs help you find the hidden bugs and bad practice.  
 plugin download url：https://plugins.jetbrains.com/plugin/3847?pr=  
 plugin source url：https://github.com/andrepdo/findbugs-idea/tree/master  
 plugin tutorials：http://blog.csdn.net/fancy_xty/article/details/51718687  
 recommend：four-star  
 
 1. jimu Mirror  
-这是一个可以让你在真实的设备上迅速测试布局的插件。jimu Mirror允许在设备上预览随同编码更新的Android布局。
+This is a can let you in a real device quickly test the layout of the plugin. Jimu Mirror allows the preview on the device with Android layout code update.
 plugin download url：https://plugins.jetbrains.com/plugin/7517?pr=    
 plugin tutorials：http://www.itnose.net/detail/6204426.html  
 recommend：four-star  
 
 1. JavaDoc   
-添加注释，可自定义模板。  
+Add comments, customizable templates.  
 plugin download url：https://plugins.jetbrains.com/plugin/?idea_ce&pluginId=7157  
 plugin source url：https://github.com/setial/intellij-javadocs  
 recommend： five-star  
 
 1. Android strings.xml tools  
-可以用来管理Android项目中的字符串资源。它提供了排序Android本地文件和添加缺少的字符串的基本操作。虽然这个插件是有限制的，但如果应用程序有大量的字符串资源，那这个插件就非常有用了。  
+The string resource can be used to manage the Android project. It provides a sort of Android local file and add the lack of the basic operation of the string. This plugin is limited, but if there are plenty of string resources application, that this plugin is very useful.  
 plugin download url：https://plugins.jetbrains.com/plugin/7498?pr=  
 plugin source url：https://github.com/constantine-ivanov/strings-xml-tools  
 recommend：five-star  
 
 1. Robotium Recorder  
-Robotium Recorder是一个自动化测试框架，用于测试在模拟器和Android设备上原生的和混合的移动应用程序。Robotium Recorder可以让你记录测试案例和用户操作。你也可以查看不同Android活动时的系统功能和用户测试场景。  
+Robotium Recorder is an automated testing framework for the test on the simulator and Android devices native mobile applications and mix. Robotium Recorder allows you to record test cases and user operation. You can also see different Android activity of system function and user test scenarios.    
 plugin download url：https://plugins.jetbrains.com/plugin/7513?pr=  
 插件官方网址：http://robotium.com/  
 recommend：four-star  
 
 1. Android Holo Colors Generator  
-通过自定义Holo主题颜色生成对应的Drawable和布局文件  
+Through the custom Holo theme colors generate the corresponding Drawable and layout file.  
 plugin download url：https://plugins.jetbrains.com/plugin/7366?pr=  
 plugin source url：https://github.com/jeromevdl/android-holo-colors-idea-plugin  
 recommend：four-star  
 
 1. lint-cleaner-plugin  
-删除未使用的资源,包括String字符串,颜色和尺寸。  这是一个Gradle插件，所以如何配置可以去github的源码上看。  
+Delete unused resources, including String String, color and size. This is a Gradle plugin, so how to configure can go to a lot of source point of view.    
 plugin source url：https://github.com/marcoRS/lint-cleaner-plugin  
 recommend：four-star  
 
 1. codota  
-该网站搜集了大量的代码，号称超过700W的代码实例。提供了chrome和as插件。  
+The site to collect a lot of code, the code examples of more than 700 w. Provides the chrome and the as plugins. 
 plugin download url：https://plugins.jetbrains.com/plugin/7638?pr=  
 插件官方网址：https://www.codota.com/  
 recommend：five-star  
 
 1. ECTranslation   
-一个androidstudio上面的翻译插件（将英文翻译为中文）。   
+A androidstudio above translation plugin (translate English into Chinese).     
 plugin download url：https://plugins.jetbrains.com/plugin/8469  
 plugin source url：https://github.com/Skykai521/ECTranslation  
 recommend：four-star  
 
 1. TranslationPlugin  
-Android Studio/IntelliJ IDEA 翻译插件,可中英互译。暂时以jar方式安装。  
+Plugin, Android Studio/IntelliJ IDEA translation into English. To install the jar way temporarily.    
 plugin download url：https://github.com/YiiGuxing/TranslationPlugin  
 recommend：three-star  
 
 1. Android File Grouping Plugin   
-该插件可自动将前缀相同的文件归类显示到同一文件目录下，但不会因此而移动文件或创建文件夹。  
+The plugin can be automatically categorized according to the prefix of the same file to the same file directory, but do not move files or create folders.   
 plugin download url：https://github.com/dmytrodanylyk/folding-plugin/releases  
 plugin source url：https://github.com/dmytrodanylyk/folding-plugin    
 recommend： four-star  
 
 1. PermissionsDispatcher  
-一个针对API 23，可在`Activity/Fragment`中快速生成`Runtime Permissions`代码的插件。  
+One for API 23, can be in ` Activity/fragments in ` quickly generate ` Runtime Permissions ` plugin code.  
 plugin download url：https://plugins.jetbrains.com/plugin/8349  
 plugin source url：https://github.com/shiraji/permissions-dispatcher-plugin    
 recommend： four-star  
 
 1. Android code Generator  
-Android Studio/IntelliJ IDEA的安卓代码生成插件，帮助提高app的开发速度。可以从layout生成Activity类、Fragment类、Adapter类，从menu.xml生成menu代码等。  
+Android Studio/IntelliJ IDEA Android code generation plug-in, to help speed up the development of the app. Activity can be generated from the layout, fragments, Adapter classes, from the menu. The XML generated menu code, etc.  
 plugin download url：https://plugins.jetbrains.com/plugin/7595?pr=   
 plugin source url：https://github.com/tmorcinek/android-codegenerator-plugin-intellij  
 插件教程：（中文版）http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0523/4294.html、（英文版）http://tmorcinek.github.io/android-codegenerator-plugin-intellij/  
 recommend：five-star  
 
 1.  .ignore  
-项目中，每次add，commit的时候有可能会把Module生成的一些build文件/本地配置文件/iml文件提交上去。可以通过gitignore解决，如果你不想提交的文件，就可以在创建项目的时候将这个文件中添加即可，将一些通用的东西屏蔽掉。  
+Project, add every time, when the commit is likely to put the Module to generate some of the build file/local configuration file/on iml documents submitted. Can be solved by gitignore, if you don't want to submit the documents, can create a project when will this file can be added, some general block.    
 plugin download url：https://plugins.jetbrains.com/plugin/7495?pr=androidstudio  
 plugin source url：https://github.com/hsz/idea-gitignore  
 recommend：four-star  
