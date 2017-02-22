@@ -282,7 +282,7 @@ plugin source url：https://github.com/square/dagger-intellij-plugin
 recommend：four-star  
 
 1. Android Styler  
-According to the XML file generated plugin style file. 
+According to the XML file generated plugin style file.  
 plugin download url：https://plugins.jetbrains.com/plugin/7972  
 plugin source url：https://github.com/alexzaitsev/android-styler  
 recommend：four-star  
