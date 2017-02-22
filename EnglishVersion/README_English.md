@@ -31,7 +31,7 @@ plugin tutorials：http://blog.csdn.net/dreamlivemeng/article/details/51262538
 recommend：four-star  
 
 1. Android Drawable Importer  
-为了适应所有Android屏幕的大小和密度，每个Android项目都会包含drawable文件夹。任何具备Android开发经验的开发人员都知道，为了支持所有的屏幕尺寸，你必须给每个屏幕类型导入不同的画板。Android Drawable Importer插件能让这项工作变得更容易。它可以减少导入缩放图像到Android项目所需的工作量。Android Drawable Importer添加了一个在不同分辨率导入画板或缩放指定图像到定义分辨率的选项。这个插件加速了开发人员的画板工作。  
+In order to meet all the Android screen size and density, each Android project contains drawable folder. Anyone with the Android development experience developers know, in order to support all the screen size, you must give each screen type into different drawing board. Android Drawable Importer plugin can make the job easier. It can reduce import zooming in the effort required to Android project. Android Drawable Importer import added a in different resolution panel or scaling specifies the image to define resolution option. This plugin speeds up the developer's sketchpad.   
 plugin download url：https://plugins.jetbrains.com/plugin/7658?pr=androidstudio  
 plugin source url：https://github.com/winterDroid/android-drawable-importer-intellij-plugin  
 plugin tutorials：http://blog.csdn.net/lee_sire/article/details/49684385    
@@ -71,7 +71,7 @@ recommend：five-star
 1. AndroidAccessors  
 The plugins rapidly get() and set() methods.  
 plugin download url：https://plugins.jetbrains.com/plugin/7496?pr=  
-插件文档地址：https://github.com/jonstaff/AndroidAccessors  
+plugin ddocument url：https://github.com/jonstaff/AndroidAccessors  
 recommend：three-star  
 
 1. Lifecycle Sorter  
@@ -154,7 +154,7 @@ recommend：four-star
 1. codota  
 The site to collect a lot of code, the code examples of more than 700 w. Provides the chrome and the as plugins. 
 plugin download url：https://plugins.jetbrains.com/plugin/7638?pr=  
-插件官方网址：https://www.codota.com/  
+plugin official url：https://www.codota.com/  
 recommend：five-star  
 
 1. ECTranslation   
@@ -184,7 +184,8 @@ recommend： four-star
 Android Studio/IntelliJ IDEA Android code generation plug-in, to help speed up the development of the app. Activity can be generated from the layout, fragments, Adapter classes, from the menu. The XML generated menu code, etc.  
 plugin download url：https://plugins.jetbrains.com/plugin/7595?pr=   
 plugin source url：https://github.com/tmorcinek/android-codegenerator-plugin-intellij  
-插件教程：（中文版）http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0523/4294.html、（英文版）http://tmorcinek.github.io/android-codegenerator-plugin-intellij/  
+plugin tutorials: (Chinese version)http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0523/4294.html  
+（English version）http://tmorcinek.github.io/android-codegenerator-plugin-intellij/  
 recommend：five-star  
 
 1.  .ignore  
@@ -194,154 +195,155 @@ plugin source url：https://github.com/hsz/idea-gitignore
 recommend：four-star  
 
 1. checkstyle-idea  
-CheckStyle-IDEA 是一个检查代码风格的插件，比如像命名约定，Javadoc，类设计等方面进行代码规范和风格的检查，你们可以遵从像Google Oracle 的Java 代码指南 ，当然也可以按照自己的规则来设置配置文件，从而有效约束你自己更好地遵循代码编写规范。  
+CheckStyle - check out the code style. The IDEA is a plug-in, such as naming conventions, Javadoc, class design specification for code and style of examination, and you can follow like Google Oracle Java code guide, of course, can also according to their own rules to set up the configuration files, thus effectively constrain yourself better follow the coding standard.    
 plugin download url：https://plugins.jetbrains.com/plugin/1065?pr=androidstudio  
 plugin source url：https://github.com/jshiell/checkstyle-idea  
 recommend：four-star  
 
 1. Android Methods Count  
-统计Android依赖库中方法的总个数。 (一个dex只能接受的65K并不是指方法数超过65K而报的错,而是指引用计数超过65K)  
+Methods the total number of statistics Android dependent libraries. (a dex can only accept 65 k is not refers to the method of more than 65 k and submitted to the fault, but the guide in count more than 65k)  
 plugin download url：https://plugins.jetbrains.com/plugin/8076?pr=androidstudio  
 recommend：four-star  
 
 1. Sexy Editor  
-设置代码性感背景图，还是比较强悍的。  
+Background setup code sex appeal, or to be more difficult.  
 plugin download url：https://plugins.jetbrains.com/plugin/1833?pr=androidstudio  
 plugin source url：https://github.com/igorspasic/idea-sexyeditor    
 recommend：five-star  
 
 1. AndroidProguardPlugin  
-Android一键生成项目混淆代码插件，现在jetbrains还在审核只能下载进行安装了，不能通过as插件直接搜索安装。因为混淆时很多同学比较头疼的一个事情，所以给5星。  
+Android obfuscated code plug-ins, a key generation project now jetbrains also in audit can only download for installation, not through direct search as plug-in installed. Because confusion when many students one of the biggest headache of things, so give 5 stars.  
 plugin download url：https://raw.githubusercontent.com/zhonghanwen/AndroidProguardPlugin/master/AndroidProguard.zip  
 plugin source url：https://github.com/zhonghanwen/AndroidProguardPlugin  
 recommend：five-star  
 
 1. Android Studio Prettify  
-从布局文件一键生成对view的声明（不适用注解，形式为findviewById的方式）,还可以将代码中的字符串写在String.xml文件中。    
+From a key generation layout file to view the statement (note, not apply form for the findviewById method), you can also write code the String in the String.xml file.   
 plugin download url：https://plugins.jetbrains.com/plugin/7405  
 plugin source url：https://github.com/Haehnchen/idea-android-studio-plugin  
 recommend：four-star  
 
 
 1. Gradle Dependencies Helper  
-Maven gradle依赖自动补全  
+Maven gradle rely on automatic completion。 .
 plugin download url：https://plugins.jetbrains.com/plugin/7299  
 plugin source url：https://github.com/siosio/GradleDependenciesHelperPlugin  
 recommend：five-star  
 
 1. Remove ButterKnife  
-ButterKnife这个第三方库每次更新之后，绑定view的注解都会改变，从bind,到inject，再到bindview，一旦升级，就会有巨量的代码需要手动修改,所以这个插件可以快速移除，将注解代码变成findviewbyId的形式。  
+ButterKnife the third-party libraries after each update, binding the view annotations will change, from the bind, to inject to bindview, once the upgrade, there will be a huge amount of code needs to manually modify, so this plug-in can be quickly removed, to annotate the code into the form of the findviewbyId.   
 plugin download url：https://plugins.jetbrains.com/plugin/8432  
 plugin source url：https://github.com/u3shadow/RemoveButterKnife  
 plugin tutorials：https://github.com/u3shadow/RemoveButterKnife/blob/master/README.md  
 recommend：three-star  
 
 1. Android DPI Calculator  
-Dpi计算插件  
+Dpi computing plugin  
 plugin download url：https://plugins.jetbrains.com/plugin/7832  
 plugin source url：https://github.com/JerzyPuchalski/Android-DPI-Calculator  
 recommend：five-star  
 
 1. SingletonTest   
-快速生成单例模式的插件。单例模式的六种生成方式LazyUnSafe,LazySafe,Hungry,DoubleCheck,StaticInner,Enum(http://cantellow.iteye.com/blog/838473);插件需要从github中下载jar安装。  
+Quickly generate singleton pattern plug-in. The singleton pattern of six generation.
+LazyUnSafe,LazySafe,Hungry,DoubleCheck,StaticInner,Enum(http://cantellow.iteye.com/blog/838473);Plugin need to download the jar from making installation.    
 plugin source url：https://github.com/luhaoaimama1/SingletonTest  
 recommend：four-star  
 
 1. Android Localizationer  
-将项目中的 string 资源自动翻译为其他语言的 Android Studio/IntelliJ IDEA 插件。
+String of project resources will be automatically translated into other languages Android Studio/IntelliJ IDEA plug-ins.  
 plugin download url：https://plugins.jetbrains.com/plugin/7629  
 plugin source url：https://github.com/westlinkin/AndroidLocalizationer  
 recommend：four-star  
 
 1. Material Theme UI  
-添加Material主题到你的AS  
+Add Material Theme to the AS.  
 plugin download url：https://plugins.jetbrains.com/plugin/8006?pr=  
 plugin source url：https://github.com/ChrisRM/material-theme-jetbrains  
 recommend：five-star  
 
 1. gradle-retrolambda  
-在java6,java7中也能使用Lambda表达式。这个使用方式跟其他插件不同，使用方式请看github的说明。  
+In java6, can also use a Lambda expressions in Java 7. This usage is different from other plug-ins, use see lot.   
 plugin source url：https://github.com/evant/gradle-retrolambda  
 recommend：five-star  
 
 1. eventbus-intellij-plugin  
-eventbus导航插件，方便快速查找，但是有2个pr没处理，已经有1年没维护更新了。  
+Eventbus navigation plug-in, convenient and quick search, but there are two pr processing, have not maintenance updates for 1 year.   
 plugin source url：https://github.com/kgmyshin/eventbus-intellij-plugin  
 recommend：three-star  
 
 1. otto-intellij-plugin  
-otto导航插件，也是很久没维护了，不过可以用。  
+Otto navigation plug-in, and haven't maintenance, but can be used.    
 plugin source url：https://github.com/square/otto-intellij-plugin  
 recommend：three-star  
 
 1. dagger-intellij-plugin  
-dagger可视化辅助工具  
+Dagger visual AIDS  
 plugin source url：https://github.com/square/dagger-intellij-plugin  
 recommend：four-star  
 
 1. Android Styler  
-根据xml文件生成style文件的插件  
+According to the XML file generated plugin style file. 
 plugin download url：https://plugins.jetbrains.com/plugin/7972  
 plugin source url：https://github.com/alexzaitsev/android-styler  
 recommend：four-star  
 
 1. ideavim  
-能让开发使用vi，大大提高开发效率。  
+Can let the development use vi, greatly improve the efficiency of development.    
 plugin download url：https://plugins.jetbrains.com/plugin/164?pr=  
 plugin source url：https://github.com/JetBrains/ideavim  
 recommend：five-star  
 
 1. Android Material Design Icon Generator  
-可以在Android项目中设置 material design样式图标(material design icons)  
+The material can be set in the Android project design style icon (material design ICONS)  
 plugin download url：https://plugins.jetbrains.com/plugin/7647?pr=  
 plugin source url：https://github.com/konifar/android-material-design-icon-generator-plugin  
 recommend： five-star  
 
 1. Gradle Killer  
-Gradle 卡死可以用这个插件。  
+A plugin that adds a button to your IDE to kill the current Gradle task. 
 plugin download url：https://plugins.jetbrains.com/plugin/7794?pr=  
 plugin source url：https://github.com/KanbanApps/GradleKillerIdeaPlugin  
 recommend：five-star  
 
 1. android-toolbox-plugin  
-能根据xml文件生成对应的ViewHolder类，可以是findviewbyId形式或者是ButterKnife刀形式，如果你使用ButterKnife。  
+Android developement speed up plugin for IDEA,According to the XML file can generate the corresponding ViewHolder classes, can be the findviewbyId form or ButterKnife knife form, if you use ButterKnife.  
 plugin download url：https://plugins.jetbrains.com/plugin/7200  
 plugin source url：https://github.com/idamobile/android-toolbox-plugin  
 recommend：three-star  
 
 1. java2smali  
-能快速将当前java文件编译成smali文件，方便学习smali语法的童鞋来对比源码学习。  
+A plugin for IntelliJ IDEA & Android Studio to easily compile Java & Kotlin files to smali. Can quickly to compile the current Java file into a smali files, convenient smali grammar 'shoes to compare the source code for learning.  
 plugin download url：https://plugins.jetbrains.com/plugin/7385  
 plugin source url：https://github.com/ollide/intellij-java2smali  
 recommend：three-star  
 
 1. PermissionsDispatcher plugin  
-自动生成android6.0权限代码  
+IntelliJ plugin for supporting PermissionsDispatcher. This is NOT official plugin.Automatically generate android6.0 access code.    
 plugin download url：https://plugins.jetbrains.com/plugin/8349  
 plugin source url：https://github.com/shiraji/permissions-dispatcher-plugin  
 recommend：five-star  
 
 1. WakaTime  
-记录你在IDE上工作的时间  
+Record your working time on the IDE  
 plugin download url：https://plugins.jetbrains.com/plugin/7425  
 plugin source url：https://github.com/wakatime/jetbrains-wakatime  
 recommend：five-star  
 
 1. Exynap  
- Exynap是一个帮助你快速查找和完成代码插入的AndroidStudio插件。你只需输入一个命令按回车就能调出一段代码，而这个命令也不需要你去记，只需输入大致意思就可以了，Exynap提供了上千种智能代码解决方案。  
+Exynap is a help you quickly find and complete the code inserted AndroidStudio plug-in. You only need to input a command and press enter to bring up a piece of code, and this command also don't need you to remember, simply enter the rough, Exynap provides thousands of intelligent code solution.   
 plugin download url：https://plugins.jetbrains.com/plugin/8600?pr=idea  
-插件主页地址：http://exynap.com/  
+plugin home page url：http://exynap.com/  
 plugin tutorials：http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0908/6606.html  
 recommend：five-star  
 
 1. MVPHelper  
- 一款Intellj IDEA 和Android Studio 自动生成MVP模式所需接口以及实现类的插件。  
+A Intellj IDEA and Android Studio to automatically generate the MVP pattern required plug-in interface and implementation classes.   
 plugin download url：https://plugins.jetbrains.com/plugin/8507?pr=idea  
 plugin source url：https://github.com/githubwing/MVPHelper  
 recommend：four-star  
 
 21. InnerBuilder
-   一款Intellj IDEA 和Android Studio自动生成内部类Builder代码的插件。  
+  A Intellj IDEA and Android Studio plug-in Builder automatically generated inner class code.    
    plugin download url：https://plugins.jetbrains.com/plugin/7354  
    plugin source url：https://github.com/analytically/innerbuilder  
    recommend：four-star
@@ -349,9 +351,9 @@ recommend：four-star
 Thanks
 ------
 * Everyone who has contributed code and reported issues!
-* 如果大家有好的开源插件分享可以直接提交pr,有问题可以直接提交issues或者邮件私信我。如果recommend不准确可以直接进行修改。recommend来源于三个指标（jetbrains,stars,实用性）。再次感谢开源作者们！
+* If you have a good open source sharing can submit pr directly, there is a problem can be directly submitted issues or E-mail messages to me. If how inaccurate can be modified directly. How is derived from the three indicators (jetbrains, stars, practical). Thank you again for the open source authors!
 
-关于作者
+About the author
 ------
 * QQ群：490832714  
 * Email：dreamlivemeng@gmail.com  
