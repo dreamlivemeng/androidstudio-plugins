@@ -341,12 +341,18 @@ Gradle 卡死可以用这个插件。
 插件源码地址：https://github.com/githubwing/MVPHelper  
 推荐指数：四星  
 
-21. InnerBuilder
+1. InnerBuilder
    一款Intellj IDEA 和Android Studio自动生成内部类Builder代码的插件。  
    插件下载地址：https://plugins.jetbrains.com/plugin/7354  
    插件源码地址：https://github.com/analytically/innerbuilder  
-   推荐指数：四星
-   
+   推荐指数：四星  
+1. Statistic    
+   一款统计项目源代码总行数，源代码行数，源代码行数占比，注释行数，注释行数占比，空白行数，空白行数占比的插件。  
+  插件下载地址：https://plugins.jetbrains.com/plugin/4509-statistic
+  插件教程地址：  
+  推荐指数：五星
+
+
 Thanks
 ------
 * Everyone who has contributed code and reported issues!
