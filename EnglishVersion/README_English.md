@@ -342,11 +342,16 @@ plugin download url：https://plugins.jetbrains.com/plugin/8507?pr=idea
 plugin source url：https://github.com/githubwing/MVPHelper  
 recommend：four-star  
 
-21. InnerBuilder
+1. InnerBuilder
   A Intellj IDEA and Android Studio plug-in Builder automatically generated inner class code.    
    plugin download url：https://plugins.jetbrains.com/plugin/7354  
    plugin source url：https://github.com/analytically/innerbuilder  
-   recommend：four-star
+   recommend：four-star  
+  1. Statistic    
+A total number of lines of source code, the number of source lines, the number of lines of source code, the number of comment lines, the number of comment lines, the number of blank lines, the number of blank lines.   
+  plugin download url：https://plugins.jetbrains.com/plugin/4509-statistic
+  plugin tutorials：    
+  recommend：five-star  
    
 Thanks
 ------
