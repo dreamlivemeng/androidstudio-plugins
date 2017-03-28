@@ -349,7 +349,7 @@ Gradle 卡死可以用这个插件。
 1. Statistic    
    一款统计项目源代码总行数，源代码行数，源代码行数占比，注释行数，注释行数占比，空白行数，空白行数占比的插件。  
   插件下载地址：https://plugins.jetbrains.com/plugin/4509-statistic  
-  插件教程地址：  
+  插件教程地址：http://blog.csdn.net/dreamlivemeng/article/details/67637789  
   推荐指数：五星  
 
 
