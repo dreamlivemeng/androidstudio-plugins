@@ -350,7 +350,7 @@ recommend：four-star
   1. Statistic    
 A total number of lines of source code, the number of source lines, the number of lines of source code, the number of comment lines, the number of comment lines, the number of blank lines, the number of blank lines.   
   plugin download url：https://plugins.jetbrains.com/plugin/4509-statistic  
-  plugin tutorials：    
+  plugin tutorials：http://blog.csdn.net/dreamlivemeng/article/details/67637789      
   recommend：five-star  
    
 Thanks
