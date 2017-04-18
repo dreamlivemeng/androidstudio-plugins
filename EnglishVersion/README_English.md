@@ -17,7 +17,7 @@ _or_
 #### 一、good plugin  
 1. Android ButterKnife Zelezny  
 ButterKnife is a focus on the Android system View into the framework, and can reduce a lot of the findViewById setOnClickListener code, visualization of a key generation.  
-####PS:Please open the link to see the effect.  
+#### PS:Please open the link to see the effect.  
 plugin download url：https://plugins.jetbrains.com/plugin/7369?pr=androidstudio  
 plugin source url： https://github.com/avast/android-butterknife-zelezny  
 plugin tutorials：http://blog.csdn.net/dreamlivemeng/article/details/51261170  
