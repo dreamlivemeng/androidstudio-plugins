@@ -1,4 +1,4 @@
-AndroidStudio Good plugin summary
+AndroidStudio Good plugin Summary with Code
 ====================
 
 Welcome to recommend good Android open source project, can be [Commit](https://github.com/dreamlivemeng/androidstudio-plugins/wiki "请遵守<内容添加及编辑规范>")， please`Star`、`Fork` :)  
